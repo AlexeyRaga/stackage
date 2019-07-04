@@ -2806,6 +2806,11 @@ packages:
 
     "Jan Gerlinger <git@jangerlinger.de> @JanGe":
         - irc-dcc < 0
+        
+    "Alexey Raga <alexey.raga@gmail.com> @AlexeyRaga":
+        - hw-kafka-client
+        - hw-kafka-conduit
+        - hw-kafka-avro
 
     "John Ky newhoggy@gmail.com @newhoggy":
         - arbor-lru-cache
